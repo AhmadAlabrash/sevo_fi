@@ -18,7 +18,7 @@
     {
         "symbol": "WETH",
         "name": "WETH",
-        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "address": "WETH",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",

@@ -1,7 +1,7 @@
 [      {
     "symbol": "BNB",
     "name": "BNB",
-    "address": "0x0000000000000000000000000000000000000000",
+    "address": "BNB",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://cryptologos.cc/logos/bnb-bnb-logo.png?v=026",
@@ -18,7 +18,7 @@
     {
         "symbol": "WETH",
         "name": "WETH",
-        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "address": "WETH",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png",
@@ -58,7 +58,7 @@
     },
     {      "symbol": "WBNB",
 "name": "Wrapped BNB",
-"address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+"address":"WBNB",
 "decimals": 18,
 "chainId": 56,
 "logoURI": "https://cryptologos.cc/logos/bnb-bnb-logo.png?v=026",
