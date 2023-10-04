@@ -3,12 +3,13 @@
 }
 
 header {
-  height: 40px;
+  height: 60px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding-left: 50px;
   padding-right: 50px;
+  padding-top: 22px;
 }
 
 .logo{
@@ -74,7 +75,7 @@ header {
 }
 
 .mainWindow {
-  margin-top: 40px;
+  margin-top: 20px;
   display: flex;
   justify-content: center;
 }
